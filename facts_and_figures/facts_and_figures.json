@@ -1,0 +1,53 @@
+{
+  "_desc": {
+    "programmes": "Degree programmes",
+    "total": "Total",
+    "english": "English-taught",
+    "joint_vu": "Joint degree with VU",
+    "joint_aarhus": "Joint degree with Aarhus Universitet",
+    "bachelor": "Bachelor's programmes",
+    "master": "Master's programmes",
+    "research_master": "Research Master's programmes",
+    "dual_master": "Dual Master's programmes",
+    "teacher_training": "Teacher training programmes (Master's)",
+    "executive_master": "Executive Master's programmes"
+  },
+  "programmes": {
+    "bachelor": {
+      "total": 62,
+      "english": 14,
+      "joint_vu": 3,
+      "joint_aarhus": 0
+    },
+    "master": {
+      "total": 73,
+      "english": 53,
+      "joint_vu": 5,
+      "joint_aarhus": 0
+    },
+    "research_master": {
+      "total": 21,
+      "english": 19,
+      "joint_vu": 1,
+      "joint_aarhus": 0
+    },
+    "dual_master": {
+      "total": 8,
+      "english": 3,
+      "joint_vu": 0,
+      "joint_aarhus": 0
+    },
+    "teacher_training": {
+      "total": 23,
+      "english": 0,
+      "joint_vu": 0,
+      "joint_aarhus": 0
+    },
+    "executive_master": {
+      "total": 12,
+      "english": 9,
+      "joint_vu": 1,
+      "joint_aarhus": 1
+    }
+  }
+}

@@ -1,0 +1,8 @@
+                  |         total       english      joint_vu  joint_aarhus
+------------------| ------------- ------------- ------------- -------------
+         bachelor |            62            14             3              
+           master |            73            53             5              
+  research_master |            21            19             1              
+      dual_master |             8             3                            
+ teacher_training |            23                                          
+ executive_master |            12             9             1             1
