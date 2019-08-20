@@ -22,3 +22,7 @@ to generate `facts_and_figures.json` and `programmes.txt`.
 ```
 
 Information about students, staff, PhDs, publications and rankings is excluded, because there is probably a better / more accurate way of scraping these. (that's probably true for the programma data as well, actually)
+
+#### Todo
+
+- complete (even if possibly useless)
