@@ -1,2 +1,2 @@
-# data
-Collect open data about the University of Amsterdam
+# UvA-data
+Collecting public data about the University of Amsterdam
