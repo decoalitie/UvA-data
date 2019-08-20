@@ -16,6 +16,15 @@ def write_as_json(variable, path):
 		json.dump(variable, file, ensure_ascii=False, indent=2)
 
 def table_to_text(table):
+	'''
+	some assumptions:
+	- all data exists (even if 0 or empty) in dict
+	- col_keys are longer than data columns (else probably shortened)
+
+	design:
+	- do not show '0'
+	- everything is right aligned
+	'''
 
 	text = ''
 
